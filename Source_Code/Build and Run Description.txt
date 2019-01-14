@@ -1,0 +1,5 @@
+1. The project should be run from the main.m file and used directories in the files must be changed based on where the project folder is saved.
+
+2. Image of the Student ID card should be named as id1, id2, id3.. etc and put in the same folder where the main function is saved.
+
+3. Detected student face is saved in the Student_info folder and the extracted ID is saved in the log.txt file in the same folder.
